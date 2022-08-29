@@ -24,3 +24,50 @@ header{
     bottom: 5px;
     left: 25px;
 }
+
+main{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+ #main-title{
+    padding-top: 15px;
+    padding-bottom: 15px;
+ }
+ h1{
+    font-size: 38px;
+    letter-spacing: 1px;
+}
+
+ span{
+    color: #9a9a9a;
+ }
+
+ #lower-span, #main-header  p{
+    font-size: 12px;
+ }
+
+ a{
+    color: #2daee6;
+    text-decoration: none;
+ }
+ .text-section{
+    padding: 20px 0px 20px 0px;
+ }
+ #list-section{
+    padding-bottom: 20px;
+ }
+ thead{
+    text-align: left;
+    background-color: #20a9e5;
+    color: white;  
+ }
+ .list-item-colored{
+    background-color: #b1e5f2;
+ }
+ .control-width{
+    width: 50%;
+ } 
+
+
+
