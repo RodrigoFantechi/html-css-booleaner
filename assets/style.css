@@ -1,0 +1,22 @@
+*,
+::after,
+::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #4ea0ff;
+    background-image: url('../img/pattern.png');
+    height: 180px;
+    background-attachment: fixed;
+    position: relative;
+    
+}
+#title{
+   width: 350px; 
+   position: absolute;
+    bottom: 5px;
+    left: 25px;
+}
