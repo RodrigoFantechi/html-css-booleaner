@@ -19,7 +19,6 @@ header {
     background-size: 390px;
     background-attachment: fixed;
     position: relative;
-
 }
 
 #navbar {
@@ -27,6 +26,7 @@ header {
     position: absolute;
     bottom: 5px;
     left: 25px;
+    
 }
 
 main,
@@ -119,4 +119,7 @@ thead {
 
 .graph {
     background-image: url('../img/graph.jpg');
+}
+table{
+    border-collapse: collapse;
 }
